@@ -1,1 +1,1 @@
-worker: python pdh_auto_scheduler.py
+web: python railway_server.py
